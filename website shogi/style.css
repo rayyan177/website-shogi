@@ -1,0 +1,37 @@
+html {
+  background-image: url(img/komadai_img01.webp);
+  background-size: cover;
+}
+
+body {
+  text-align: center;
+  width: 600px;
+  margin: 25px auto;
+  padding: auto;
+  border-radius: 20px;
+}
+h2 {
+  margin-top: 50px;
+}
+.nav a {
+  text-align: center;
+  font-size: 23px;
+  letter-spacing: 2px;
+}
+.one {
+  align-items: center;
+  margin: 240px 5px;
+  font-size: 80px;
+}
+.two {
+  align-items: center;
+  margin: 260px 7px;
+  font-size: 25px;
+  color: rgb(155, 9, 9);
+}
+a {
+  color: rgb(155, 9, 9);
+}
+a:hover {
+  font-weight: bold;
+}
